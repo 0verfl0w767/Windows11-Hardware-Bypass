@@ -2,7 +2,8 @@
 
 Windows 11은 다음과 같은 하드웨어 요구 사항이 충족되지 않으면 설치가 차단됩니다.
 
-![2021-10-16-21-14-22](https://github.com/user-attachments/assets/5c717436-955d-4539-91dc-b88b75c48093)
+![](https://github.com/user-attachments/assets/af167d14-d527-4343-b1c1-278efdde7db0)
+
 
 - TPM 2.0 미지원
 - Secure Boot(보안 부팅) 미지원
